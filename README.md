@@ -1,7 +1,7 @@
 ## 📊 Digital Balance Analysis – Exploring Student Social Media Habits
 
 
-![](https://)
+![](https://educationalvoice.co.uk/wp-content/uploads/2024/05/image-15.jpeg)
 
 ## 🧩 Introduction
 
@@ -108,7 +108,7 @@ Nigerian students had the highest average daily usage and addiction scores, with
 
 
 
-You can interact with the live visualizations [HERE]()
+You can interact with the live visualizations [HERE](https://drive.google.com/drive/folders/1z-SQ0tv9cumRvlbQSquJyuZUiPMADAVn?usp=drive_link)
 
 
 
