@@ -37,7 +37,7 @@ This project analyzes how students' use of social media affects their academic p
 
 
 ## 📊 Visualization
-![]()
+![](https://github.com/JulieT-012/Digital-Balance-Analysis-Exploring-Students-Social-Media-Habits/blob/main/Digital%20Balance%20Analysis(Excel%20Dashboard).png)
 
 ![]()
 
