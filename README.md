@@ -71,7 +71,7 @@ This project analyzes how students' use of social media affects their academic p
 
 ### Average Daily Social Media Usage
 
-A majority of students spend between 3 to 6 hours daily, with some exceeding 6 hours, indicating heavy usage habits.
+Majority of students spend between 3 to 6 hours daily, with some exceeding 6 hours, indicating heavy usage habits.
   
 ### Addiction Score
 
